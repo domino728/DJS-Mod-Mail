@@ -1,0 +1,19 @@
+  {
+    "token": "BOT TOKEN HERE", 
+    "prefix": "prefix",
+    "BotName": "name",
+
+    "ServerID": "id bot is in",
+    "ServerName": "name of server",
+    "ModeratorRole": ["Staff role 1", "Staff role 2"],
+    "ModMailCategoryName": "name of category tickets go to",
+    
+    "EmbedColor": "GRAY",
+    "CloseEmbedColor": "RED",
+    "OpenEmbedColor": "GREEN",
+    "EmbedFooter": "https://apollo-dev.ml",
+    
+    "StatusText": "apollo-dev.ml",
+    "StatusType": "PLAYING",
+    "StatusURL": "https://www.twitch.tv/#"
+}  
